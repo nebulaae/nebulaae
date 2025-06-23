@@ -46,15 +46,6 @@
 
 <br/>
 
-<h3 align="center">📊 My stats </h3>
-
-<div align="center">
-  <img alt="stats" src="https://streak-stats.demolab.com/?user=ssaintx&theme=dark&hide_border=true">
-  <img alt="stats" src="https://github-readme-stats.vercel.app/api?username=ssaintx&show_icons=true&theme=transparent&hide_border=true">
-</div>
-
-<br/>
-
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=36&duration=3000&pause=500&color=FF0066&center=true&vCenter=true&random=false&width=500&height=70&lines=Thank+you+for+reading!">
 </div>
