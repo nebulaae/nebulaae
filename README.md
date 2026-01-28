@@ -1,51 +1,22 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=36&duration=3000&pause=500&color=FF0066&center=true&vCenter=true&random=false&width=500&height=70&lines=Hi+There!;I+am+Lazizbek!">
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&rotate=0&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
 </div>
 
-<h3 align="center">:octocat: Creative Frontend developer from Uzbekistan.</h3>
+###
 
-<br/>
+<br clear="both">
 
-<div align="center">
-  
-  ☄️ Want to decome **Fullstack Developer**
+<h1 align="center">Fullstack middle+ developer</h1>
 
-  💻 Working on **Projects**
+###
 
-  🤖 Learing **DL/ML**
-  
-</div>
+<p align="left">Frontend: Next.js, React.js<br>Backend: Node.js, Express.js<br>DBMS: PostgreSQL, MongoDB<br><br>Tools used: Docker, Grafana, Redis, Prometheus, Loki, Promtail, Nginx, Gitlab<br><br>Can make deployments, set up infrastructure, work as a devops</p>
+
+###
 
 <div align="center">
-  <a href="mailto:saintx.git@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://t.me/NONAME_JS"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
-  <a href="https://linkedin.com/in/ssaintx"><img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=nebulaae&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nebulaae&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-<br/>
-
-<h3 align="center">⚛️ My skills</h3>
-
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,tailwind,git,github,nextjs,react,vue,threejs,python,c,java,ps,pr,html,css&perline=5" />
-  </a>
-</div>
-
-<br/>
-
-<h3 align="center">📈 My contributions</h3>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=36&duration=3000&pause=500&color=FF0066&center=true&vCenter=true&random=false&width=500&height=70&lines=Thank+you+for+reading!">
-</div>
+###
